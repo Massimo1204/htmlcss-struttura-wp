@@ -13,13 +13,11 @@ body{
 {
     margin-top: 20px;
     height: 150px;
-    float: left;
     background-color: #E579E6;
 }
 
 .section{
     height: 600px;
-    float: left;
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: #E1D67A;
